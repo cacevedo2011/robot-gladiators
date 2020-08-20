@@ -38,6 +38,7 @@ if (playerHealth <= 0) {
     }else {
         window.alert(playerName + " still has " + playerHealth + " health left.");
     }
+    
 };
 // Execute function
 fight();
